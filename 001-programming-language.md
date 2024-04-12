@@ -33,23 +33,19 @@ Chosen option: "Python", because it has multiple code libraries (Tensorflow, Pyt
 
 ### Python
 
-* Good, because {argument a}
-* Good, because {argument b}
-* Neutral, because {argument c}
-* Bad, because {argument d}
+* Good, because Python has a large amount of libaries that are reliable
+* Good, because already familar with Python code base
+* Bad, because Python can be relatively slow
 
 ### R
 
-* Good, because {argument a}
-* Good, because {argument b}
-* Neutral, because {argument c}
-* Bad, because {argument d}
+* Good, for statistics and data analysis, with a strong set of packages for linear modeling, time-series analysis, and data visualization.
+* Bad, less efficient for real-time applications.
+* Neutral learning gap would be greater as not familar with the language.
 
 ### Java
 
-* Good, because {argument a}
-* Good, because {argument b}
-* Neutral, because {argument c}
-* Bad, because {argument d}
+* Good, because robust web development frameworks available
+* Bad, it lacks the simplicity and the extensive machine learning library support found in Python.
 
 
