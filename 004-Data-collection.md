@@ -1,7 +1,7 @@
 
 ---
 parent: Decisions
-nav_order: 003
+nav_order: 004
 title: Selecting Data collection method
 ---
 # Selecting Data collection method
@@ -16,11 +16,13 @@ title: Selecting Data collection method
 
 ## Considered Options
 
-
+* Pre-made dataset
+* Custom made dataset using FastF1 API
+* Pre-made dataset with feature engineering
 
 ## Decision Outcome
 
-
+Chosen option: "Pre-made dataset with feature engineering", because
 
 ### Consequences
 
@@ -28,10 +30,11 @@ title: Selecting Data collection method
 
 ## Pros and Cons of the Options
 
-### {option 1}
+### Pre-made dataset with feature engineering
 
 
 
-### {option 2}
+### Custom made dataset using FastF1 API
 
+### Pre-made dataset
 
