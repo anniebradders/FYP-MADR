@@ -26,8 +26,9 @@ Chosen option: "Python", because it has multiple code libraries (Tensorflow, Pyt
 
 ### Consequences
 
-* Good, because {positive consequence, e.g., improvement of one or more desired qualities, …}
-* Bad, because {negative consequence, e.g., compromising one or more desired qualities, …}
+* Good, because Python has a large amount of libaries that are reliable
+* Good, because already familar with Python code base
+* Bad, because Python can be relatively slow
 
 ## Pros and Cons of the Options
 
