@@ -28,7 +28,11 @@ Chosen option: "Visual Studio Code", because it provides extensive support for P
 
 ### Consequences
 
-
+* Good because, lightweight and fast, providing an efficient development experience.
+* Good because, strong community support and regular updates.
+* Good because, integrated terminal and native Git support enhance workflow integration.
+* Bad because, being a general-purpose editor, it may require additional setup to optimize for Django development.
+* Bad because, lacks some of the deeper project management features inherent in full-fledged IDEs like PyCharm.
 
 ## Pros and Cons of the Options
 
