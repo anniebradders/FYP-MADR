@@ -1,5 +1,5 @@
 ---
-nav_order: 0
+nav_order: 000
 title: Deciding what ARD template to use
 ---
 # Deciding what ADR template to use
